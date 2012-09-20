@@ -15,7 +15,7 @@
  */
 
 #import "Facebook.h"
-#import "JSON.h"
+#import "FB_JSON.h"
 #import "FBUtility.h"
 #import "FBSession+Internal.h"
 
